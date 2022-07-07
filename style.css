@@ -3,7 +3,7 @@ body{
 	font-family: 'Prompt', sans-serif;
 	font-family: 'Ruda', sans-serif;
     height: 100vh;
-    background: #0062e6 !important;
+    background: purple !important;
     display: flex;
     flex-direction: column;
     align-items: center;
